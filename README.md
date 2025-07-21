@@ -1,4 +1,4 @@
-## C_Programming
+# C_Programming
 
 A collection of C programs and utilities demonstrating fundamental programming concepts, data structures, and algorithms.
 
@@ -13,14 +13,6 @@ This repository contains various C programming projects ranging from basic synta
 - *Memory Management*: Dynamic allocation examples and best practices
 - *File I/O*: File reading, writing, and manipulation utilities
 - *String Processing*: String manipulation and parsing functions
-
-## Code Style
-
-This project follows standard C coding conventions:
-- Function names use snake_case
-- Constants are UPPER_CASE
-- Proper indentation (4 spaces)
-- Comprehensive comments for complex logic
 
 ## Testing
 
