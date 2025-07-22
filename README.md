@@ -20,6 +20,15 @@ Run the test suite with:
 bash
 make test
 
-## Contact
+## Support
 
-For questions or suggestions, please open an issue in the repository.
+If you encounter any issues or have questions:
+- 📧 Email: rudrakshadas8617@gmail.com
+
+## Acknowledgments
+
+- Thanks to all contributors who helped shape this project
+- Inspired by modern web development best practices
+- Built with love and lots of coffee ☕
+
+
